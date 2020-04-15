@@ -20,7 +20,7 @@ We selected the 200 most recent photos from each of the seven accounts (All coll
 If you find this useful, please use the following citation
 ```
 @inproceedings{Salienteye2020,
-  title={Salienteye: Maximizing Engagement While Maintaining ArtisticStyle on Instagram Using Deep Neural Networks},
+  title={Salienteye: Maximizing Engagement While Maintaining Artistic Style on Instagram Using Deep Neural Networks},
   author={Lili Wang, Ruibo Liu, Soroush Vosoughi},
   booktitle={Proceedings of the 2020 on International Conference on Multimedia Retrieval},
   year={2020},
