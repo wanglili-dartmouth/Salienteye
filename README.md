@@ -9,6 +9,7 @@ Tensorflow 1.4.0
 
 ## Run the test
 python style_test_oneforall
+
 The default experiment is to plot the style classification confusion matrix of the following four account: thephotosociety, cats_of_instagram,travelalberta and clarklittle
 
 ## Dataset
