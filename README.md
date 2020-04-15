@@ -23,6 +23,8 @@ If you find this useful, please use the following citation
   title={Salienteye: Maximizing Engagement While Maintaining ArtisticStyle on Instagram Using Deep Neural Networks},
   author={Lili Wang, Ruibo Liu, Soroush Vosoughi},
   booktitle={Proceedings of the 2020 on International Conference on Multimedia Retrieval},
-
+  year={2020},
+  organization={ACM}
 }
+
 ```
