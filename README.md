@@ -1,4 +1,4 @@
-# Salienteye: Maximizing Engagement While Maintaining ArtisticStyle on Instagram Using Deep Neural Networks
+# Salienteye: Maximizing Engagement While Maintaining Artistic Style on Instagram Using Deep Neural Networks
 Style similarity experiment of Paper: Salienteye: Maximizing Engagement While Maintaining Artistic Style on Instagram Using Deep Neural Networks
 
 ## Requirements:
